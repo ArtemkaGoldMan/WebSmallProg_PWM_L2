@@ -1,0 +1,43 @@
+﻿@model Web_App_MVC_L2.Models.CalculatorModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Real Calculator</title>
+</head>
+<body>
+    <h2>Real Calculator</h2>
+
+    @using (Html.BeginForm("Index", "Calculator", FormMethod.Post))
+    {
+        <div>
+            <label for="Number1">First Number:</label>
+            @Html.TextBoxFor(m => m.Number1)
+        </div>
+        <div>
+            <label for="Operation">Operation:</label>
+            @Html.DropDownListFor(m => m.Operation, new SelectList(new[]
+                     {
+        new { Text = "Add (+)", Value = "Add" },
+        new { Text = "Subtract (-)", Value = "Subtract" },
+        new { Text = "Multiply (×)", Value = "Multiply" },
+        new { Text = "Divide (÷)", Value = "Divide" }
+        }, "Value", "Text"))
+        </div>
+        <div>
+            <label for="Number2">Second Number:</label>
+            @Html.TextBoxFor(m => m.Number2)
+        </div>
+        <div>
+            <input type="submit" value="Calculate" />
+        </div>
+
+        @if (Model.Result.HasValue)
+        {
+            <div>
+                <h3>Result: @Model.Result</h3>
+            </div>
+        }
+    }
+</body>
+</html>
