@@ -29,3 +29,7 @@ C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\
 C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.pdb
 C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.genruntimeconfig.cache
 C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\ref\Web_App_MVC_L2.dll
+C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_.B8D4051C.Up2Date
+C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\scopedcss\Views\ToDo\Index.cshtml.rz.scp.css

@@ -1,0 +1,29 @@
+﻿@model List<TodoModel>
+
+@foreach (var item in Model)
+{
+    <tr id="task-@item.Id">
+        <td style="width: 40%;">@item.Description</td>
+        <td style="width: 20%;">
+            @if (item.IsCompleted)
+            {
+                <span style="color: green; font-weight: bold;">Completed</span>
+            }
+            else
+            {
+                <span style="color: black; font-weight: bold;">Pending</span>
+            }
+        </td>
+        <td style="width: 40%;">
+            @if (item.IsCompleted)
+            {
+                <button class="btn btn-sm btn-warning" onclick="notCompleteTask(@item.Id)">Not Complete</button>
+            }
+            else
+            {
+                <button class="btn btn-sm btn-success" onclick="completeTask(@item.Id)">Complete</button>
+            }
+            <button class="btn btn-sm btn-danger" onclick="deleteTask(@item.Id)">Delete</button>
+        </td>
+    </tr>
+}

@@ -47,3 +47,14 @@ button.accept-policy[b-guitxyisbn] {
   white-space: nowrap;
   line-height: 60px;
 }
+/* _content/Web_App_MVC_L2/Views/ToDo/Index.cshtml.rz.scp.css */
+.table-fixed[b-2uwbysk0al] {
+    table-layout: fixed;
+    width: 100%;
+}
+
+    .table-fixed th[b-2uwbysk0al], .table-fixed td[b-2uwbysk0al] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }

@@ -9,6 +9,8 @@ namespace Web_App_MVC_L2
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            builder.Services.AddSession(); //
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -23,6 +25,8 @@ namespace Web_App_MVC_L2
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseSession(); //
 
             app.UseAuthorization();
 

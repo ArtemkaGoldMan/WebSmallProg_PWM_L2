@@ -1,0 +1,10 @@
+.table-fixed[b-2uwbysk0al] {
+    table-layout: fixed;
+    width: 100%;
+}
+
+    .table-fixed th[b-2uwbysk0al], .table-fixed td[b-2uwbysk0al] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
