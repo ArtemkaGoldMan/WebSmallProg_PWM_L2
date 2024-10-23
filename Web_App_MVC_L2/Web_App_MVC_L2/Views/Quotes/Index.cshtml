@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Favorite Quotes";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div id="quoteApp">
+    <h3>Add a New Quote</h3>
+    <input type="text" id="quoteText" placeholder="Enter a quote">
+    <input type="text" id="quoteAuthor" placeholder="Enter author">
+    <button id="addQuoteButton">Add Quote</button>
+
+    <h3>Favorite Quotes</h3>
+    <ul id="quoteList"></ul>
+</div>
+
+<script src="/js/quoteApp.js"></script>

@@ -33,3 +33,38 @@ C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\
 C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.csproj.AssemblyReference.cache
 C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_.B8D4051C.Up2Date
 C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\scopedcss\Views\ToDo\Index.cshtml.rz.scp.css
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\appsettings.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\Web_App_MVC_L2.staticwebassets.runtime.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\Web_App_MVC_L2.exe
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\Web_App_MVC_L2.deps.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\Web_App_MVC_L2.runtimeconfig.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\Web_App_MVC_L2.dll
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\Web_App_MVC_L2.pdb
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.csproj.AssemblyReference.cache
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.AssemblyInfoInputs.cache
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.AssemblyInfo.cs
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.csproj.CoreCompileInputs.cache
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.RazorAssemblyInfo.cache
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.RazorAssemblyInfo.cs
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.sourcelink.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\staticwebassets\msbuild.Web_App_MVC_L2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_App_MVC_L2.props
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_App_MVC_L2.props
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_App_MVC_L2.props
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\scopedcss\Views\ToDo\Index.cshtml.rz.scp.css
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\scopedcss\bundle\Web_App_MVC_L2.styles.css
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\scopedcss\projectbundle\Web_App_MVC_L2.bundle.scp.css
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_.B8D4051C.Up2Date
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.dll
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\refint\Web_App_MVC_L2.dll
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.pdb
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.genruntimeconfig.cache
+C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\ref\Web_App_MVC_L2.dll
