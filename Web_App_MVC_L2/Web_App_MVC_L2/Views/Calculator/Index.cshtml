@@ -18,11 +18,11 @@
             <label for="Operation">Operation:</label>
             @Html.DropDownListFor(m => m.Operation, new SelectList(new[]
                      {
-        new { Text = "Add (+)", Value = "Add" },
-        new { Text = "Subtract (-)", Value = "Subtract" },
-        new { Text = "Multiply (×)", Value = "Multiply" },
-        new { Text = "Divide (÷)", Value = "Divide" }
-        }, "Value", "Text"))
+                        new { Text = "Add (+)", Value = "Add" },
+                        new { Text = "Substract (-)", Value = "Substract" },
+                        new { Text = "Multiply (×)", Value = "Multiply" },
+                        new { Text = "Divide (÷)", Value = "Divide" }
+                     }, "Value", "Text"))
         </div>
         <div>
             <label for="Number2">Second Number:</label>

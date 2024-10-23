@@ -20,7 +20,7 @@
                 case "Multiply":
                     Result = Number1 * Number2;
                     break;
-                case "Devide":
+                case "Divide":
                     Result = Number2 != 0 ? Number1 / Number2 : double.NaN;
                     break;
                 default:
