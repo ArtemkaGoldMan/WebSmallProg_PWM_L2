@@ -68,3 +68,4 @@ C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\We
 C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.pdb
 C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\Web_App_MVC_L2.genruntimeconfig.cache
 C:\Users\Marta Stankevich\ProgWebiMob\lab2\WebSmallProg_PWM_L2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\ref\Web_App_MVC_L2.dll
+C:\Users\artem\source\repos\WEBSmallProg_PWM_Lab2\Web_App_MVC_L2\Web_App_MVC_L2\obj\Debug\net8.0\scopedcss\Views\Quotes\Index.cshtml.rz.scp.css

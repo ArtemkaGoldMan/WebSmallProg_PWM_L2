@@ -1,3 +1,24 @@
+/* _content/Web_App_MVC_L2/Views/Quotes/Index.cshtml.rz.scp.css */
+.table-fixed[b-5ac561pf9d] {
+    table-layout: fixed;
+    width: 100%;
+}
+
+    .table-fixed th[b-5ac561pf9d], .table-fixed td[b-5ac561pf9d] {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        padding: 8px;
+        text-align: left;
+    }
+
+.table-striped tbody tr:nth-child(odd)[b-5ac561pf9d] {
+    background-color: #f9f9f9;
+}
+
+.table-striped tbody tr:nth-child(even)[b-5ac561pf9d] {
+    background-color: #ffffff;
+}
 /* _content/Web_App_MVC_L2/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */

@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|c:\\users\\artem\\source\\repos\\websmallprog_pwm_lab2\\web_app_mvc_l2\\web_app_mvc_l2\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|solutionrelative:web_app_mvc_l2\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|c:\\users\\artem\\source\\repos\\websmallprog_pwm_lab2\\web_app_mvc_l2\\web_app_mvc_l2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|solutionrelative:web_app_mvc_l2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|c:\\users\\artem\\source\\repos\\websmallprog_pwm_lab2\\web_app_mvc_l2\\web_app_mvc_l2\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|solutionrelative:web_app_mvc_l2\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|c:\\users\\artem\\source\\repos\\websmallprog_pwm_lab2\\web_app_mvc_l2\\web_app_mvc_l2\\views\\quotes\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|solutionrelative:web_app_mvc_l2\\views\\quotes\\index.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|c:\\users\\artem\\source\\repos\\websmallprog_pwm_lab2\\web_app_mvc_l2\\web_app_mvc_l2\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|solutionrelative:web_app_mvc_l2\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|c:\\users\\artem\\source\\repos\\websmallprog_pwm_lab2\\web_app_mvc_l2\\web_app_mvc_l2\\views\\quotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|solutionrelative:web_app_mvc_l2\\views\\quotes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|c:\\users\\artem\\source\\repos\\websmallprog_pwm_lab2\\web_app_mvc_l2\\web_app_mvc_l2\\wwwroot\\js\\quoteapp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|solutionrelative:web_app_mvc_l2\\wwwroot\\js\\quoteapp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|c:\\users\\artem\\source\\repos\\websmallprog_pwm_lab2\\web_app_mvc_l2\\web_app_mvc_l2\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|Web_App_MVC_L2\\Web_App_MVC_L2.csproj|solutionrelative:web_app_mvc_l2\\models\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Views\\Calculator\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web_App_MVC_L2\\Views\\Calculator\\Index.cshtml",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Views\\Calculator\\Index.cshtml",
-              "RelativeToolTip": "Web_App_MVC_L2\\Views\\Calculator\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBUAAABIAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_App_MVC_L2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Web_App_MVC_L2\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-23T14:58:44.004Z",
+              "WhenOpened": "2024-10-23T15:27:43.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CalculatorModel.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Models\\CalculatorModel.cs",
-              "RelativeDocumentMoniker": "Web_App_MVC_L2\\Models\\CalculatorModel.cs",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Models\\CalculatorModel.cs",
-              "RelativeToolTip": "Web_App_MVC_L2\\Models\\CalculatorModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvwsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T14:58:39.269Z",
+              "Title": "Index.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Views\\Quotes\\Index.cshtml.css",
+              "RelativeDocumentMoniker": "Web_App_MVC_L2\\Views\\Quotes\\Index.cshtml.css",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Views\\Quotes\\Index.cshtml.css",
+              "RelativeToolTip": "Web_App_MVC_L2\\Views\\Quotes\\Index.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-23T15:25:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quoteApp.js",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\wwwroot\\js\\quoteApp.js",
+              "RelativeDocumentMoniker": "Web_App_MVC_L2\\wwwroot\\js\\quoteApp.js",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\wwwroot\\js\\quoteApp.js",
+              "RelativeToolTip": "Web_App_MVC_L2\\wwwroot\\js\\quoteApp.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwDoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-23T15:14:07.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "Web_App_MVC_L2\\Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "Web_App_MVC_L2\\Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Views\\Quotes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_App_MVC_L2\\Views\\Quotes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Views\\Quotes\\Index.cshtml",
+              "RelativeToolTip": "Web_App_MVC_L2\\Views\\Quotes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T15:06:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Models\\Quote.cs",
+              "RelativeDocumentMoniker": "Web_App_MVC_L2\\Models\\Quote.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\Models\\Quote.cs",
+              "RelativeToolTip": "Web_App_MVC_L2\\Models\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T14:58:37.118Z",
+              "WhenOpened": "2024-10-23T15:05:30.625Z",
               "EditorCaption": ""
             }
           ]

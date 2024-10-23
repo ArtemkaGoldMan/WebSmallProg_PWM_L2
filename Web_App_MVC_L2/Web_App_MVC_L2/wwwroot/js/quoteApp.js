@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Function to add a quote to Local Storage
     function addQuote(text, author) {
         let quotes = getQuotesFromStorage();
-        const id = quotes.length > 0 ? quotes[quotes.length - 1].id + 1 : 1;  // Generate unique ID
+        const id = quotes.length > 0 ? quotes[quotes.length - 1].id + 1 : 1;
         const newQuote = { id, text, author };
         quotes.push(newQuote);
         saveQuotesToStorage(quotes);
@@ -39,13 +39,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Function to display quotes
     function displayQuotes(quotes) {
-        quoteList.innerHTML = '';  // Clear current list
+        quoteList.innerHTML = '';
         quotes.forEach(quote => {
-            const li = document.createElement('li');
-            li.innerHTML = `${quote.text} - <strong>${quote.author}</strong>
-                <button onclick="deleteQuote(${quote.id})">Delete</button>
-                <button onclick="editQuote(${quote.id})">Edit</button>`;
-            quoteList.appendChild(li);
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+                <td>${quote.text}</td>
+                <td><strong>${quote.author}</strong></td>
+                <td>
+                    <button onclick="deleteQuote(${quote.id})">Delete</button>
+                    <button onclick="editQuote(${quote.id})">Edit</button>
+                </td>`;
+            quoteList.appendChild(tr);
         });
     }
 
@@ -69,6 +73,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const quoteToEdit = quotes.find(quote => quote.id === id);
         quoteText.value = quoteToEdit.text;
         quoteAuthor.value = quoteToEdit.author;
-        deleteQuote(id);  // Remove the old quote
+        deleteQuote(id);
     };
 });

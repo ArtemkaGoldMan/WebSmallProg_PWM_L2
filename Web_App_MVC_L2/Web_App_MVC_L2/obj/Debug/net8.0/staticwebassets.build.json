@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RzbgUpcWqddorVpPoXp7tZkYyUAX2QcYSXK7VFKhqJY=",
+  "Hash": "B+jS9zx1JSG16gMlIev5H8IJR2G7EwmZrd6kqCoz3HM=",
   "Source": "Web_App_MVC_L2",
   "BasePath": "_content/Web_App_MVC_L2",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\wwwroot\\images\\hero.jpg",
+      "SourceId": "Web_App_MVC_L2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\wwwroot\\",
+      "BasePath": "_content/Web_App_MVC_L2",
+      "RelativePath": "images/hero.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\hero.jpg"
     },
     {
       "Identity": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\wwwroot\\js\\quoteApp.js",

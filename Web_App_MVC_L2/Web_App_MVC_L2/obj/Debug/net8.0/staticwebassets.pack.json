@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\wwwroot\\images\\hero.jpg",
+      "PackagePath": "staticwebassets\\images\\hero.jpg"
+    },
+    {
       "Id": "C:\\Users\\artem\\source\\repos\\WEBSmallProg_PWM_Lab2\\Web_App_MVC_L2\\Web_App_MVC_L2\\wwwroot\\js\\quoteApp.js",
       "PackagePath": "staticwebassets\\js\\quoteApp.js"
     },
