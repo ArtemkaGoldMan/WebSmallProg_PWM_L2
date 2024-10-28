@@ -12,7 +12,7 @@
     {
         <div>
             <label for="Number1">First Number:</label>
-            @Html.TextBoxFor(m => m.Number1)
+            @Html.TextBoxFor(m => m.Number1, new { type = "number", step = "any" })
         </div>
         <div>
             <label for="Operation">Operation:</label>
@@ -26,7 +26,7 @@
         </div>
         <div>
             <label for="Number2">Second Number:</label>
-            @Html.TextBoxFor(m => m.Number2)
+            @Html.TextBoxFor(m => m.Number2, new { type = "number", step = "any" })
         </div>
         <div>
             <input type="submit" value="Calculate" />

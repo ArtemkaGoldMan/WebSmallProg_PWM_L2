@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{A9AE7097-B5CB-43AE-8C13-891372F4A6B6}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web_App_MVC_L2/Views/Calculator/Index.cshtml">
+    <Files>
+      <File FileName="Web_App_MVC_L2/Controllers/CalculatorController.cs" Line="1" Column="1" />
+      <File FileName="Web_App_MVC_L2/Models/CalculatorModel.cs" Line="1" Column="1" />
+      <File FileName="Web_App_MVC_L2/Views/Calculator/Index.cshtml" Line="13" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Web_App_MVC_L2">
+            <Node name="Web_App_MVC_L2">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views">
+                <Node name="Calculator">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Web__App__MVC__L2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
